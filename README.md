@@ -6,6 +6,12 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![Givit app screens](app-screens.png)
+
+![Givit key features](features.png)
+
 ## What we built
 
 - **Home feed** with photo posts, likes, comments and hashtags
